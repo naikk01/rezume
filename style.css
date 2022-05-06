@@ -20,3 +20,12 @@ html {
     text-align: left ;
     font-size: 20px;
 }
+  .card-1 {
+    background: rgb(245, 175, 143); 
+    border-radius: 10px; 
+  }
+
+  .card-2 {
+    background: rgba(243, 152, 152, 0.478); 
+    border-radius: 10px; 
+  }
